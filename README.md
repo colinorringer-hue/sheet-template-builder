@@ -1,4 +1,4 @@
-# Google Sheets Template Builder — Zero-Billing Version
+# Google Sheets Template Builder
 
 This version does **not** require Google Cloud, a service account, a billing account, or Google API credentials.
 
